@@ -116,7 +116,7 @@
                         <div>
                             <label class="text-sm font-medium text-gray-700">Narasumber Kegiatan</label>
                             <input type="text" name="narasumber_kegiatan" value="{{ old('narasumber_kegiatan') }}"
-                                placeholder="Masukkan narasumber"
+                                placeholder="Masukkan narasumber kegiatan"
                                 class="mt-2 w-full border border-gray-300 rounded-lg px-3 py-2 text-sm">
                         </div>
 
